@@ -14,6 +14,7 @@ import { Link, useHistory } from 'react-router-dom';
 import getValidationErrors from '../../utils/getValidationErrors';
 import Input from '../../components/Input';
 import Button from '../../components/Button';
+import PlaceholderImgProfile from '../../components/PlaceholderImgProfile';
 import { Container, Content, AnimationContainer, AvatarInput } from './styles';
 import api from '../../services/api';
 import { useToast } from '../../hooks/toast';
@@ -115,7 +116,7 @@ const Profile: React.FC = () => {
         });
       }
     },
-    [addToast, updateUser, history]
+    [addToast, history, updateUser]
   );
 
   const handleAvatarChange = useCallback(
@@ -164,7 +165,12 @@ const Profile: React.FC = () => {
             onSubmit={handleSubmit}
           >
             <AvatarInput>
-              <img src={user.avatar_url} alt={user.name} />
+              {user.avatar_url === null ? (
+                <PlaceholderImgProfile />
+              ) : (
+                <img src={user.avatar_url} alt={user.name} />
+              )}
+
               <label htmlFor="avatar">
                 <FiCamera />
                 <input type="file" id="avatar" onChange={handleAvatarChange} />

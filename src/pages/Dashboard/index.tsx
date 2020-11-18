@@ -19,6 +19,7 @@ import {
   Calendar,
 } from './styles';
 import { useAuth } from '../../hooks/auth';
+import PlaceholderImgProfile from '../../components/PlaceholderImgProfile';
 import logoImg from '../../assets/logo.svg';
 import api from '../../services/api';
 
@@ -150,7 +151,11 @@ const Dashboard: React.FC = () => {
 
           <Profile>
             <Link to="/profile">
-              <img src={avatar_url} alt={name} />
+              {avatar_url === null ? (
+                <PlaceholderImgProfile />
+              ) : (
+                <img src={avatar_url} alt={name} />
+              )}
 
               <div>
                 <span>Bem-vindo,</span>
