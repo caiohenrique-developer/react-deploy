@@ -50,6 +50,7 @@ module.exports = {
               'feat',
               'fix',
               'perf',
+              'chore',
 
               'FEAT',
               'FIX',
