@@ -161,13 +161,13 @@ $ react-native run-android
 
   <img alt="GitHub License" src="https://img.shields.io/github/license/caiohenrique-developer/react-deploy">
 
-  <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
+  <a target="_blank" href="https://app.netlify.com/sites/gobarber-react-web/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
   </a>
 </p>
 
 ## 🔐 License
-This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/develop/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
 
 ---
 
