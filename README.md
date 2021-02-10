@@ -1,9 +1,9 @@
 <h1 align="center">
     <img alt="GoBarber" src="src/assets/logo.svg" />
 </h1>
-<h3 align="center">
+<h5 align="center">
   Application for scheduling barber shop services.
-</h3>
+</h5>
 
 <br>
 
@@ -26,25 +26,21 @@
 
 ## :flying_saucer: Technologies
 
-This project was developed at the [RocketSeat OmniStack Week 7](https://rocketseat.com.br) with the following technologies:
+This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocketseat.com.br) with the following technologies:
 
--  [Node.js][nodejs]
+-  [Axios](https://github.com/axios/axios)
+-  [Date-fns](https://date-fns.org/)
 -  [Express](https://expressjs.com/)
--  [nodemon](https://github.com/remy/nodemon)
--  [MongoDB](https://mongodb.com)
--  [Mongoose](https://mongoosejs.com/)
--  [Multer](https://github.com/expressjs/multer)
--  [Socket.io](https://socket.io/)
+-  [NodeJS][nodejs]
 -  [ReactJS](https://reactjs.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
--  [styled-components](https://www.styled-components.com/)
--  [axios](https://github.com/axios/axios)
--  [React Native](http://facebook.github.io/react-native/)
--  [React Navigation](https://reactnavigation.org/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker)
--  [react-native-auto-height-image](https://github.om/vivaxy/react-native-auto-height-image)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [React Day Picker](https://react-day-picker.js.org/)
+-  [React Icons](https://react-icons.github.io/react-icons/)
+-  [Styled Components](https://www.styled-components.com/)
+-  [TypeScript](https://www.typescriptlang.org/)
+-  [Unform](https://unform.dev/)
+-  [uuidv4](https://www.npmjs.com/package/uuidv4)
+-  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier](https://prettier.io/)
+-  [Yup](https://github.com/jquense/yup)
 
 ## :warning: Prerequisites
 
@@ -57,64 +53,64 @@ In order to use and test the mobile app on a simulator or on your smartphone, yo
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
 <details>
-<summary>How to use</summary>
+  <summary>Hit me to see more</summary>
 
-<br>
+  <br>
 
-_An example of this setup is in `examples/husky`._
+  _An example of this setup is in `examples/husky`._
 
-```bash
-# Clone this repository
-$ git clone https://github.com/caiohenrique-developer/instagram-fullStack
+  ```bash
+  # Clone this repository
+  $ git clone https://github.com/caiohenrique-developer/instagram-fullStack
 
-# Go into the repository
-$ cd instagram-fullStack
+  # Go into the repository
+  $ cd instagram-fullStack
 
-# Go into backend
-$ cd backend
+  # Go into backend
+  $ cd backend
 
-# Install dependencies
-$ yarn install
+  # Install dependencies
+  $ yarn install
 
-# Start the backend server
-$ yarn dev
+  # Start the backend server
+  $ yarn dev
 
-# On another terminal, go to the frontend folder
-$ cd ../frontend
+  # On another terminal, go to the frontend folder
+  $ cd ../frontend
 
-# Install dependencies
-$ yarn install
+  # Install dependencies
+  $ yarn install
 
-# Start the backend server
-$ yarn start
+  # Start the backend server
+  $ yarn start
 
-# On another terminal, go to the mobile folder
-$ cd ../mobile
+  # On another terminal, go to the mobile folder
+  $ cd ../mobile
 
-# Install dependencies
-$ yarn install
+  # Install dependencies
+  $ yarn install
 
-# If you want to run the project on a simulador, start the react-native server as it is
-$ react-native start
+  # If you want to run the project on a simulador, start the react-native server as it is
+  $ react-native start
 
-# On another terminal, install the app on your simulator
-# Use the command below for iOS devices
-$ react-native run-ios --simulator="iPhone XS Max"
+  # On another terminal, install the app on your simulator
+  # Use the command below for iOS devices
+  $ react-native run-ios --simulator="iPhone XS Max"
 
-# Use the command below for Android devices
-$ react-native run-android
+  # Use the command below for Android devices
+  $ react-native run-android
 
-# If you want to run the project on your smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
-# After changing the baseURL, start the react-native server
-$ react-native start
+  # If you want to run the project on your smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
+  # After changing the baseURL, start the react-native server
+  $ react-native start
 
-# On another terminal, install the app on your smartphone
-# Use the command below for iOS devices
-$ react-native run-ios
+  # On another terminal, install the app on your smartphone
+  # Use the command below for iOS devices
+  $ react-native run-ios
 
-# Use the command below for Android devices
-$ react-native run-android
-```
+  # Use the command below for Android devices
+  $ react-native run-android
+  ```
 </details>
 
 <br>
