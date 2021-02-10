@@ -12,7 +12,7 @@
   <a href="#🛸-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#⚠️-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#❔-how-to-use">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔖-badges">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark-badges">:bookmark: Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#🔐-license">🔐 License</a>
 </p>
 
@@ -119,7 +119,7 @@ $ react-native run-android
 
 <br>
 
-## 🔖 Badges
+## :bookmark: Badges
 
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/react-deploy">
@@ -159,15 +159,9 @@ $ react-native run-android
 
 ## 🔐 License
 This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
-<a target="_blank" href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a>
-
-<!-- ---
-
-Done with ♥ by myself ☝️ [Get in touch!](https://www.linkedin.com/in/caio-henrique-024627171/) -->
 
 ---
-<blockquote align="center">Done with ♥ by myself ☝️ <a target="_blank" href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
-
+<blockquote align="center">Done with ♥ by myself ☝️ <a href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
