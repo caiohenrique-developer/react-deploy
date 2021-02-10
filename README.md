@@ -13,7 +13,7 @@
   <a href="#⚠️-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#❔-how-to-use">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-badges">:bookmark: Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔐-license">🔐 License</a>
+  <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
 ## 🖼️ App UI
@@ -157,7 +157,7 @@ $ react-native run-android
   </a>
 </p>
 
-## 🔐 License
+## :closed_lock_with_key: License
 This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
 
 ---
