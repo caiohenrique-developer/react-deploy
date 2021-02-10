@@ -57,25 +57,11 @@ In order to use and test the mobile app on a simulator or on your smartphone, yo
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
 <details>
-<summary>husky</summary>
-
-1. Install husky:
-```
-npm i husky
-```
-2. Configure `package.json`:
-```
-  "husky": {
-    "hooks": {
-      "commit-msg": "cz-customizable-ghooks"
-    }
-  }
-```
-
-_An example of this setup is in `examples/husky`._
-</details>
+<summary>How to use</summary>
 
 <br>
+
+_An example of this setup is in `examples/husky`._
 
 ```bash
 # Clone this repository
@@ -129,6 +115,9 @@ $ react-native run-ios
 # Use the command below for Android devices
 $ react-native run-android
 ```
+</details>
+
+<br>
 
 ## 🔖 Badges
 
@@ -149,6 +138,8 @@ $ react-native run-android
     <img alt="GitHub Releases" src="https://img.shields.io/github/release-date/caiohenrique-developer/react-deploy">
   </a>
 
+  <br>
+
   <a href="https://github.com/caiohenrique-developer/react-deploy/tags">
     <img alt="GitHub Tags" src="https://img.shields.io/github/package-json/v/caiohenrique-developer/react-deploy/master">
   </a>
@@ -161,17 +152,22 @@ $ react-native run-android
 
   <img alt="GitHub License" src="https://img.shields.io/github/license/caiohenrique-developer/react-deploy">
 
-  <a target="_blank" href="https://app.netlify.com/sites/gobarber-react-web/deploys">
+  <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
   </a>
 </p>
 
 ## 🔐 License
 This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
+<a target="_blank" href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a>
+
+<!-- ---
+
+Done with ♥ by myself ☝️ [Get in touch!](https://www.linkedin.com/in/caio-henrique-024627171/) -->
 
 ---
+<blockquote align="center">Done with ♥ by myself ☝️ <a target="_blank" href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
 
-Done with ♥ by myself ☝️ [Get in touch!](https://www.linkedin.com/in/caio-henrique-024627171/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
