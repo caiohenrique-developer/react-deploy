@@ -8,15 +8,15 @@
 <br>
 
 <p align="center">
-  <a href="#🖼️-app-ui">🖼️ App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🛸-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#⚠️-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#art-app-ui">🎨 App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#flying_saucer-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#grey_question-how-to-use">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-badges">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
-## 🖼️ App UI
+## :art: App UI
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-## 🛸 Technologies
+## :flying_saucer: Technologies
 
 This project was developed at the [RocketSeat OmniStack Week 7](https://rocketseat.com.br) with the following technologies:
 
@@ -46,13 +46,13 @@ This project was developed at the [RocketSeat OmniStack Week 7](https://rocketse
 -  [react-native-auto-height-image](https://github.om/vivaxy/react-native-auto-height-image)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## ⚠️ Prerequisites
+## :warning: Prerequisites
 
 In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
 
 [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
-## ❔ How To Use
+## :grey_question: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
