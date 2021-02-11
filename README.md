@@ -1,5 +1,7 @@
 <h1 align="center">
+  <a href="https://gobarber.desenvolvendosistemas.dev.br">
     <img alt="GoBarber" src="src/assets/logo.svg" />
+  </a>
 </h1>
 <h5 align="center">
   Application for scheduling barber shop services.
@@ -44,9 +46,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 
 ## :warning: Prerequisites
 
-In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
-
-[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment: [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
 ## :grey_question: How To Use
 
