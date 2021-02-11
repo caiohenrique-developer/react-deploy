@@ -20,11 +20,9 @@
 
 ## :art: App UI
 
-
-
-<!-- {{ AQUI VAI ENTRAR AS IMAGENS E UM TEXTO RÁPIDO }} -->
-
-
+<p align="center">
+  <img alt="GoBarber" src="src/assets/sign-in-background.png" width="400px" />
+</p>
 
 ## :flying_saucer: Technologies
 
