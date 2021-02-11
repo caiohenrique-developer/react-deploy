@@ -46,14 +46,20 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 
 ## :warning: Prerequisites
 
-In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment: [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+In order to use and test this project locally, you should've already setup the development environment. <br>
+Therefore, firstly i recommend that you access and run the backend repository for a complete experience. <br>
+_Or go to [`GoBarber Web`](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
+
+<a href="https://github.com/caiohenrique-developer/node-deploy">
+  <img width="350px" alt="GoBarber back-end" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
+</a>
 
 ## :grey_question: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
 <details>
-  <summary>Hit me to see more</summary>
+  <summary>Steps to run the project locally</summary>
 
   <br>
 
