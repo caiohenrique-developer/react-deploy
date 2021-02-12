@@ -8,8 +8,6 @@
   💈 GoBarber web, a project developed to offer barber shop scheduling.
 </h5>
 
-<br>
-
 <p align="center">
   <!-- <a href="#art-app-ui">🎨 App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#flying_saucer-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,11 +17,15 @@
   <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
+<br>
+
 <!-- ## :art: App UI -->
 
 <p align="center">
   <img alt="GoBarber background image" src="src/assets/sign-in-background.png" width="400px" />
 </p>
+
+<br>
 
 ## :flying_saucer: Technologies
 
@@ -55,16 +57,13 @@ _Or go to [`gobarber.desenvolvendosistemas.dev.br`](https://gobarber.desenvolven
 
 ## :grey_question: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
-
-<br>
+To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
 <details open>
   <summary>Hit me to toggle collapse 🕹️🤏</summary>
 
-  _From your `command line` follow these steps to run this project locally:_
+  _From your `command line` follow these steps..._
 
-  #### Web
   ```bash
     # Clone this repository
     $ git clone https://github.com/caiohenrique-developer/react-deploy
@@ -82,7 +81,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
   ```
 
   + <details>
-      <summary>See also</summary>
+      <summary>See also:</summary>
 
       #### API
 
