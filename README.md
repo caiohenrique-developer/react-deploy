@@ -55,15 +55,14 @@ _Or go to [`gobarber.desenvolvendosistemas.dev.br`](https://gobarber.desenvolven
 
 ## :grey_question: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. <br> From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
-<!-- <details>
-  <summary>Follow these steps to run this project locally</summary>
+<br>
 
-  <br>
+<details open>
+  <summary>Hit me to toggle collapse 🕹️🤏</summary>
 
-  _An example of this `setup`._
-</details> -->
+  _From your `command line` follow these steps to run this project locally:_
 
   ```bash
   # Clone this repository
@@ -117,6 +116,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
   # Use the command below for Android devices
   $ react-native run-android
   ```
+</details>
 
 ## :bookmark: Badges
 
