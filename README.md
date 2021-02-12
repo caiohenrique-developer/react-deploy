@@ -1,16 +1,17 @@
 <h1 align="center">
   <a href="https://gobarber.desenvolvendosistemas.dev.br">
-    <img alt="GoBarber" src="src/assets/logo.svg" />
+    <img alt="GoBarber logotipo" src="src/assets/logo.svg" />
   </a>
 </h1>
+
 <h5 align="center">
-  Application for scheduling barber shop services.
+  💈 GoBarber web, a project developed to offer barber shop scheduling.
 </h5>
 
 <br>
 
 <p align="center">
-  <a href="#art-app-ui">🎨 App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#art-app-ui">🎨 App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#flying_saucer-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#grey_question-how-to-use">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,10 +19,10 @@
   <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
-## :art: App UI
+<!-- ## :art: App UI -->
 
 <p align="center">
-  <img alt="GoBarber" src="src/assets/sign-in-background.png" width="400px" />
+  <img alt="GoBarber background image" src="src/assets/sign-in-background.png" width="400px" />
 </p>
 
 ## :flying_saucer: Technologies
@@ -39,29 +40,30 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [Unform](https://unform.dev/)
 -  [uuidv4](https://www.npmjs.com/package/uuidv4)
--  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier](https://prettier.io/)
+-  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier][vcprettier]
 -  [Yup](https://github.com/jquense/yup)
 
 ## :warning: Prerequisites
 
 In order to use and test this project locally, you should've already setup the development environment. <br>
 Therefore, firstly i recommend that you access and run the backend repository for a complete experience. <br>
-_Or go to [`GoBarber Web`](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
+_Or go to [`gobarber.desenvolvendosistemas.dev.br`](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
 
 <a href="https://github.com/caiohenrique-developer/node-deploy">
-  <img width="350px" alt="GoBarber back-end" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
+  <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
 </a>
 
 ## :grey_question: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. <br> From your command line:
 
-<details>
-  <summary>Steps to run the project locally</summary>
+<!-- <details>
+  <summary>Follow these steps to run this project locally</summary>
 
   <br>
 
-  _An example of this setup is in `examples/husky`._
+  _An example of this `setup`._
+</details> -->
 
   ```bash
   # Clone this repository
@@ -115,9 +117,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
   # Use the command below for Android devices
   $ react-native run-android
   ```
-</details>
-
-<br>
 
 ## :bookmark: Badges
 
@@ -168,3 +167,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/caio
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[vcprettier]: https://prettier.io/
