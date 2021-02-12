@@ -64,58 +64,38 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
   _From your `command line` follow these steps to run this project locally:_
 
+  #### Web
   ```bash
-  # Clone this repository
-  $ git clone https://github.com/caiohenrique-developer/instagram-fullStack
+    # Clone this repository
+    $ git clone https://github.com/caiohenrique-developer/react-deploy
 
-  # Go into the repository
-  $ cd instagram-fullStack
+    # Go into the repository
+    $ cd react-deploy
 
-  # Go into backend
-  $ cd backend
+    # Install dependencies
+    $ yarn
+    # or
+    $ npm i
 
-  # Install dependencies
-  $ yarn install
-
-  # Start the backend server
-  $ yarn dev
-
-  # On another terminal, go to the frontend folder
-  $ cd ../frontend
-
-  # Install dependencies
-  $ yarn install
-
-  # Start the backend server
-  $ yarn start
-
-  # On another terminal, go to the mobile folder
-  $ cd ../mobile
-
-  # Install dependencies
-  $ yarn install
-
-  # If you want to run the project on a simulador, start the react-native server as it is
-  $ react-native start
-
-  # On another terminal, install the app on your simulator
-  # Use the command below for iOS devices
-  $ react-native run-ios --simulator="iPhone XS Max"
-
-  # Use the command below for Android devices
-  $ react-native run-android
-
-  # If you want to run the project on your smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
-  # After changing the baseURL, start the react-native server
-  $ react-native start
-
-  # On another terminal, install the app on your smartphone
-  # Use the command below for iOS devices
-  $ react-native run-ios
-
-  # Use the command below for Android devices
-  $ react-native run-android
+    # Start the project
+    $ yarn start
   ```
+
+  + <details>
+      <summary>See also</summary>
+
+      #### API
+
+      <a href="https://github.com/caiohenrique-developer/node-deploy">
+        <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
+      </a>
+
+      #### MOB
+
+      <a href="https://github.com/caiohenrique-developer/react-native-deploy">
+        <img width="350px" alt="GoBarber app mobile repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-native-deploy&theme=dark" />
+      </a>
+    </details>
 </details>
 
 ## :bookmark: Badges
