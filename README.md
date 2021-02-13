@@ -17,15 +17,11 @@
   <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
-<br>
-
 <!-- ## :art: App UI -->
 
 <p align="center">
-  <img alt="GoBarber background image" src="src/assets/sign-in-background.png" width="400px" />
+  <img alt="GoBarber background image" src="src/assets/laptop mockup.png" width="100%" />
 </p>
-
-<br>
 
 ## :flying_saucer: Technologies
 
@@ -96,6 +92,10 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
       </a>
     </details>
 </details>
+
+<p align="center">
+  <img alt="GoBarber background image" src="src/assets/sign-in-background.png" width="700" />
+</p>
 
 ## :bookmark: Badges
 
