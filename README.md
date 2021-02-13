@@ -17,7 +17,11 @@
   <a href="#closed_lock_with_key-license">🔐 License</a>
 </p>
 
+<!-- <br> -->
+
 <!-- ## :art: App UI -->
+
+<!-- <br> -->
 
 <p align="center">
   <img alt="GoBarber background image" src="src/assets/laptop mockup.png" width="100%" />
