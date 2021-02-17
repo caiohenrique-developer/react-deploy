@@ -49,7 +49,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 
 In order to use and test this project locally, you should've already setup the development environment. <br>
 Therefore, firstly i recommend that you access and run the backend repository for a complete experience. <br>
-_Or go to [`gobarber.desenvolvendosistemas.dev.br`](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
+_Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
 
 <a href="https://github.com/caiohenrique-developer/node-deploy">
   <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
@@ -65,7 +65,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   _From your `command line` follow these steps..._
 
   ```bash
-    # Cloning the project
+    # Clone the project
     $ git clone https://github.com/caiohenrique-developer/react-deploy 'GoBarber Web' && cd 'GoBarber Web'
 
     # Install dependencies
