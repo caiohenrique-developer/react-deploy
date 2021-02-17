@@ -75,6 +75,8 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 
     # Start the project
     $ yarn start
+
+    # Very well, now you can enjoy this project ;)
   ```
 
   + <details>
