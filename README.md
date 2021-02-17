@@ -65,11 +65,8 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   _From your `command line` follow these steps..._
 
   ```bash
-    # Clone this repository
-    $ git clone https://github.com/caiohenrique-developer/react-deploy
-
-    # Go into the repository
-    $ cd react-deploy
+    # Cloning the project
+    $ git clone https://github.com/caiohenrique-developer/react-deploy 'GoBarber Web' && cd 'GoBarber Web'
 
     # Install dependencies
     $ yarn
