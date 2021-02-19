@@ -60,7 +60,7 @@ _Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolv
 To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
 <details open>
-  <summary>Hit me to toggle collapse 🕹️🤏</summary>
+  <summary>Hit me to toggle collapse: 🕹️🤏</summary>
 
   _From your `command line` follow these steps..._
 
@@ -80,7 +80,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   ```
 
   + <details>
-      <summary>See also:</summary>
+      <summary>See also: 🕹️🤏</summary>
 
       #### API
 
