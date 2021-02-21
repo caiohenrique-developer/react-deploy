@@ -1,7 +1,16 @@
 {
   "name": "gobarber-web",
+  "description": ":barber: GoBarber web, project intended to offer scheduling barber shop services.",
+  "repository": "https://github.com/caiohenrique-developer/react-deploy.git",
+  "bugs": {
+    "url": "https://github.com/caiohenrique-developer/react-deploy/issues"
+  },
+  "homepage": "https://github.com/caiohenrique-developer/react-deploy#readme",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com>",
   "version": "1.0.1",
+  "license": "MIT",
   "private": true,
+  "keywords": [],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
