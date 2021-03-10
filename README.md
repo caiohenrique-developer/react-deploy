@@ -1,3 +1,5 @@
+### <a name="top"></a>
+
 <h1 align="center">
   <a href="https://gobarber.desenvolvendosistemas.dev.br">
     <img alt="GoBarber logotipo" src="src/assets/logo.svg" />
@@ -21,7 +23,7 @@
   <img alt="GoBarber background image" src="src/assets/laptop mockup2.png" width="100%" />
 </p>
 
-## :flying_saucer: Technologies
+## [🔝](#top) Techs :flying_saucer:
 
 This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocketseat.com.br) with the following technologies:
 
@@ -39,7 +41,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 -  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier][vcprettier]
 -  [Yup](https://github.com/jquense/yup)
 
-## :warning: Prerequisites
+## [🔝](#top) Prerequisites :warning:
 
 In order to use and test this project locally, you should've already setup the development environment. <br>
 Therefore, firstly i recommend that you access and run the backend repository for a complete experience. <br>
@@ -49,12 +51,12 @@ _Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolv
   <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
 </a>
 
-## :grey_question: How To Use
+## [🔝](#top) How To Use :grey_question:
 
 To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
 <details open>
-  <summary>Hit me to toggle collapse: 🕹️🤏</summary>
+  <summary>Hit me to toggle collapse: 🕹️<sup>🤏</sup></summary>
 
   _From your `command line` follow these steps..._
 
@@ -74,7 +76,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   ```
 
   + <details>
-      <summary>See also: 🕹️🤏</summary>
+      <summary>See also: 🕹️<sup>🤏</sup></summary>
 
       #### API
 
@@ -94,7 +96,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   <img alt="GoBarber background image" src="src/assets/sign-in-background.png" width="700" />
 </p>
 
-## :bookmark: Badges
+## [🔝](#top) Badges :bookmark:
 
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/react-deploy">
@@ -113,8 +115,6 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     <img alt="GitHub Releases" src="https://img.shields.io/github/release-date/caiohenrique-developer/react-deploy">
   </a>
 
-  <br>
-
   <a href="https://github.com/caiohenrique-developer/react-deploy/tags">
     <img alt="GitHub Tags" src="https://img.shields.io/github/package-json/v/caiohenrique-developer/react-deploy/master">
   </a>
@@ -131,16 +131,35 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
   </a>
 
-  <!-- <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
+  <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
-  </a> -->
+  </a>
 </p>
 
-## :closed_lock_with_key: License
-This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
+## [🔝](#top) License :closed_lock_with_key:
+
+Copyright © 2021 GoBarber, [MIT](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) .
+###### _This project is under the <sup>MIT</sup> license. See the license for more information._
 
 ---
-<blockquote align="center">Done with ♥ by myself ☝️ <a href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
+
+<blockquote align="center">“Always running in search of the goals!” <br> Done with ♥ by myself 👇 <a href="#-contact-me-phone">Get in touch!</a></blockquote>
 
 ## [🔝](#top) Contact Me :phone:
 
